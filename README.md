@@ -4,7 +4,7 @@ This project provides a code for generating meal plans. It aims to create balanc
 
 ## Data
 
-- The `data` folder contains a data file named `quick_prep.csv`.
+- The `data` folder contains a data file named `빠른준비.csv`.
 - The `Code` folder contains the `Meal_Plan.ipynb` file.
 
 ## Code Explanation
